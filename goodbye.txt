@@ -1,2 +1,5 @@
 print("Goodbye, my friend!")
 print("How are you?")
+print("How do you do")
+print("How do you do")
+print("How do you do")
